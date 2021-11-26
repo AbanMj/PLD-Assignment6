@@ -52,3 +52,18 @@ elif num3>num2>num1>num4:
     print(num3,num2,num1,num4)
 elif num3>num2>num4>num1:
     print(num3,num2,num4,num1)
+
+#if the fourth num is highest
+if num4>num1>num2>num3:
+    print(num4,num1,num2,num3)
+elif num4>num1>num3>num2:
+    print(num4,num1,num3,num2)
+elif num4>num2>num3>num1:
+    print(num4,num2,num3,num1)
+elif num4>num2>num1>num3:
+    print(num4,num2,num1,num3)
+elif num4>num3>num1>num2:
+    print(num4,num3,num1,num2)
+elif num4>num3>num2>num1:
+    print(num4,num3,num2,num1)
+    
